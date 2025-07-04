@@ -1,6 +1,6 @@
 # Presentation slides with Reveal.js
 
-Georgios Arampatzis, 2025
+Nikolaos Vlachogiannakis, 2025
 
 ---
 
